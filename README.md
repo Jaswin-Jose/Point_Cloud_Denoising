@@ -47,21 +47,13 @@ PCD/
 ### 1. Robust Statistical Normal Filtering
 **Reference**: Yadav et al. (2020), "Robust Normal Filtering of Point Clouds via Statistical Neighborhood Analysis"
 
-Uses robust statistics to estimate normals and filter noise based on normal consistency.
+### 2. Learning Based Bilateral Filtering
+**Reference**: Huajian et al. (2022), "LBF: Learnable Bilateral Filter for Point Cloud Denoising"
 
-### 2. PointNet
-**Reference**: Qi et al. (2017), "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation"
-
-Deep learning-based approach using PointNet autoencoder architecture for denoising.
-
-### 3. Bilateral Filtering
-**Reference**: Fleishman et al. (2003), "Bilateral Mesh Denoising" and Digne (2012), "Similarity Based Filtering of Point Clouds"
-
-Preserves edges while smoothing by considering both spatial proximity and feature similarity.
-
-### 4. Moving Least Squares (MLS)
+### 3. Moving Least Squares (MLS)
 **Reference**: Alexa et al. (2003), "Computing and Rendering Point Set Surfaces" 
-### 5. Statistical Outlier Removal (SOR)
+
+### 4. Statistical Outlier Removal (SOR)
 **Reference**: Rusu and Cousins (2011), "3D is here: Point Cloud Library (PCL)"
 
 ### Run All Experiments
