@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+torus,Robust_Statistical_Normal_Filtering,0.06574980818875774,0.007779747759745287,37000

@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+hyperboloid,Statistical_Outlier_Removal,0.167567640846899,0.167567640846899,37000

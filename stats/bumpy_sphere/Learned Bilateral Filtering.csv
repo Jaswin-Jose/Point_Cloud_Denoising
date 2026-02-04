@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+bumpy_sphere,Learned Bilateral Filtering,0.04779010621667559,0.0031608607454300564,37000

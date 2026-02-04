@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cylinder,Learned Bilateral Filtering,0.030672629380334236,0.0034269359307325695,37000

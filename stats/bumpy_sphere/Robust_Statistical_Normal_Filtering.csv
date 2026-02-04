@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+bumpy_sphere,Robust_Statistical_Normal_Filtering,0.040952435243432034,0.003003718510090649,37000

@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cone,Learned Bilateral Filtering,0.03041962324415137,0.0023817846296134543,37000

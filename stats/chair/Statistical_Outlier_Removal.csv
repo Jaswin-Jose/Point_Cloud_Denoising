@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+chair,Statistical_Outlier_Removal,0.03943799698799624,0.03943799698799624,36996

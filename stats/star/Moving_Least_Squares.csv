@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+star,Moving_Least_Squares,0.027405730839684124,0.0024892377558446994,36996

@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+star,Statistical_Outlier_Removal,0.03416141947681075,0.03416141947681075,36996

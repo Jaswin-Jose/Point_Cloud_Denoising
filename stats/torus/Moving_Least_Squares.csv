@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+torus,Moving_Least_Squares,0.04724189061900183,0.006947262807286101,37000

@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+bumpy_sphere,Moving_Least_Squares,0.030328522533629564,0.002696549906885726,37000

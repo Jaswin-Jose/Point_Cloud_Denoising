@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+bumpy_sphere,Statistical_Outlier_Removal,0.04575546969257839,0.04575546969257839,37000

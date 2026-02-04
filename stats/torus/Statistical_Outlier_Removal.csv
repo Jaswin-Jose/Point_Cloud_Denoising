@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+torus,Statistical_Outlier_Removal,0.07026180521379734,0.07026180521379734,37000

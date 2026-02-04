@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cone,Moving_Least_Squares,0.024259600980055834,0.0021114921220842585,37000

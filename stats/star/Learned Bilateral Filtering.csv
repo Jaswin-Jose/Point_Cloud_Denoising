@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+star,Learned Bilateral Filtering,0.0586698327353013,0.004232217497047664,36996

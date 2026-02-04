@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+chair,Learned Bilateral Filtering,0.03694099672861582,0.005825363926895373,36996

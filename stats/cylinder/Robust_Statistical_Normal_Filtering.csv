@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cylinder,Robust_Statistical_Normal_Filtering,0.04900323760716406,0.004012753574309914,37000

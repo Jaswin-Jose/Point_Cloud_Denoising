@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cylinder,Moving_Least_Squares,0.035513194506030396,0.0036124994889454756,37000

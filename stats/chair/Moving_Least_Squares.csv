@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+chair,Moving_Least_Squares,0.03631929969566153,0.0037643157808811244,36996

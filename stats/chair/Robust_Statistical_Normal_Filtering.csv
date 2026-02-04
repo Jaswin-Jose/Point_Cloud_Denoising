@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+chair,Robust_Statistical_Normal_Filtering,0.03831336553868872,0.0037994519127835507,36996

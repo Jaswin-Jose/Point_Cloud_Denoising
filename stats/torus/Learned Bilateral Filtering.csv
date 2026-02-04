@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+torus,Learned Bilateral Filtering,0.042958376915052846,0.006550664579525785,37000

@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+hyperboloid,Learned Bilateral Filtering,0.1077638487315919,0.031146935784314385,37000

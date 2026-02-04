@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cone,Statistical_Outlier_Removal,0.03584172550970187,0.03584172550970187,37000

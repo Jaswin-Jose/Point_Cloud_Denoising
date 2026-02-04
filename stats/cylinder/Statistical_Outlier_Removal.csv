@@ -1,0 +1,2 @@
+shape,algorithm,chamfer_distance,mse,num_points
+cylinder,Statistical_Outlier_Removal,0.053641547643955484,0.053641547643955484,37000
