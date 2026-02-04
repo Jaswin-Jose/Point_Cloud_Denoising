@@ -8,13 +8,11 @@ This project implements and evaluates various point cloud denoising algorithms o
 PCD/
 ├── codes/
 │   ├── generate_shapes.py                              # Shape generation
-│   ├── algorithm1_robust_statistical_normal_filtering.py
-│   ├── algorithm2_pointnet.py
-│   ├── algorithm3_bilateral_filtering.py
-│   ├── algorithm4_moving_least_squares.py
-│   ├── algorithm5_statistical_outlier_removal.py
-│   ├── utils.py                                        # Utilities and metrics
-│   └── main.py                                         # Main execution script
+│   ├── lbf.py
+│   ├── mls.py
+│   ├── sor.py
+│   ├── robust.py                                      
+│   └── utils.py                                        
 ├── images/                                             # Visualization outputs
 │   ├── hyperboloid/
 │   ├── cylinder/
