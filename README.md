@@ -59,7 +59,7 @@ PCD/
 cd codes
 python main.py
 ```
-###To compare
+### To compare
 ```bash
 python3 generate_comparisons.py
 ```
