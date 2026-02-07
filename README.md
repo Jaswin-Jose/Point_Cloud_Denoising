@@ -53,13 +53,3 @@ PCD/
 
 ### 4. Statistical Outlier Removal (SOR)
 **Reference**: Rusu and Cousins (2011), "3D is here: Point Cloud Library (PCL)"
-
-### Run All Experiments
-```bash
-cd codes
-python main.py
-```
-### To compare
-```bash
-python3 generate_comparisons.py
-```
